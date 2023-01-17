@@ -1,0 +1,4 @@
+Pycharm code editor
+Python3
+Pip3
+Colorama
